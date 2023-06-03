@@ -1,0 +1,10 @@
+{
+  "name": "Zoomer Coin",
+  "symbol": "ZOOMER",
+  "decimals": 9,
+  "logoURI": "https://i.ibb.co/Khb7JSn/logo.jpg",
+  "tags": ["memecoin", "memes"],
+  "extensions": {
+    "twitter": "https://twitter.com/Zoomercoinsol"
+  }
+}
