@@ -2,7 +2,7 @@
   "name": "Zoomer Coin",
   "symbol": "ZOOMER",
   "decimals": 9,
-  "logoURI": "https://github.com/HeisenbergSOL/token-metadata/blob/main/logo.jpg?raw=true",
+  "logoURI": "https://raw.githubusercontent.com/HeisenbergSOL/token-metadata/main/logo.jpg",
   "tags": ["memecoin", "memes"],
   "extensions": {
     "twitter": "https://twitter.com/Zoomercoinsol"
