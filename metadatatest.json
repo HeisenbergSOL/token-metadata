@@ -1,0 +1,9 @@
+{
+  "name": "Test Coin",
+  "symbol": "TEST",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/HeisenbergSOL/token-metadata/main/logo.jpg",
+  "tags": ["memecoin", "memes"],
+  "extensions": {
+  }
+}
